@@ -1,27 +1,27 @@
 runGitHub ("project", username="amimiz")
+
 Arguments
 
-Choose variable to display ; Graph Type
+  Choose variable to display ; Graph Type
 
-Variable	
-White / black / asian / hispanic / total population
+  Variable	
+    White / black / asian / hispanic / total population
 
-Type	
-Histogram / Boxplot (descriptive statistics) / Dot Chart
+  Type	
+    Histogram / Boxplot (descriptive statistics) / Dot Chart
 
 Details
 
-Graphical Descriptive statistic of Census data Data is stored on subdirectory /data
+  Graphical Descriptive statistic of Census data Data is stored on subdirectory /data
 
 Author(s)
 
-ami
+  ami
 
 References
 
-http://shiny.rstudio.com/tutorial/lesson5/
+  http://shiny.rstudio.com/tutorial/lesson5/
 
 Examples
 
-
-runGitHub ("project", username="amimiz")
+  runGitHub ("project", username="amimiz")
