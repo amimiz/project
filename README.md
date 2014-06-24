@@ -1,7 +1,7 @@
 can run from this link: [census data](https://amimiz.shinyapps.io/Project/)
 
 or from r directly, using: 
-<code> runGitHub ("project", username="amimiz") /
+<code> runGitHub ("project", username="amimiz") 
 
 Arguments
 
