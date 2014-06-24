@@ -1,6 +1,6 @@
 <b> Introduction
 
-The App can run from WEB link of from ShinyApps server: [census data](https://amimiz.shinyapps.io/Project/)
+The App can run from WEB link of from ShinyApps server: [census data](http://amimiz.shinyapps.io/Project/)
 
 Or directly from R - using: 
 <code> runGitHub ("project", username="amimiz") 
