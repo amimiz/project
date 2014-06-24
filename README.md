@@ -3,28 +3,28 @@ Can run from WEB link of from ShinyApps server: [census data](https://amimiz.shi
 Or directly from R - using: 
 <code> runGitHub ("project", username="amimiz") 
 
-Arguments
+<b> Arguments 
 
   Choose variable to display ; Graph Type
 
-  Variable	
+  <b> Variable	
     White / black / asian / hispanic / total population
 
-  Type	
+  <b> Type	 
     Histogram / Boxplot (descriptive statistics) / Dot Chart
 
-Details
+<b> Details 
 
   Graphical Descriptive statistic of Census data Data is stored on subdirectory /data
 
-Author(s)
+<b> Author(s) 
 
   ami
 
-References
+<b> References 
 
-  http://shiny.rstudio.com/tutorial/lesson5/
+  [http://shiny.rstudio.com/tutorial/lesson5/](http://shiny.rstudio.com/tutorial/lesson5/)
 
-Examples
+<b> Examples </b>
 
   runGitHub ("project", username="amimiz")
