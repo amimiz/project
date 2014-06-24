@@ -8,9 +8,11 @@ Or directly from R - using:
   Choose variable to display ; Graph Type
 
   <b> Variable	
+  
     White / black / asian / hispanic / total population
 
   <b> Type	 
+  
     Histogram / Boxplot (descriptive statistics) / Dot Chart
 
 <b> Details 
