@@ -1,6 +1,6 @@
-can run from this link: [census data](https://amimiz.shinyapps.io/Project/)
+Can run from WEB link of from ShinyApps server: [census data](https://amimiz.shinyapps.io/Project/)
 
-or from r directly, using: 
+Or directly from R - using: 
 <code> runGitHub ("project", username="amimiz") 
 
 Arguments
