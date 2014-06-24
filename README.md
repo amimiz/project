@@ -13,7 +13,7 @@ Or directly from R - using:
   
     White / black / asian / hispanic / total population
 
-  <b> Type	 
+  <b> Graph Type	 
   
     Histogram / Boxplot (descriptive statistics) / Dot Chart
 
